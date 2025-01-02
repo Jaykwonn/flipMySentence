@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676941838 source:c:\users\jaykw\onedrive\documents\c programing\code blocks\jaykwonn\jaykwonn\hw\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
